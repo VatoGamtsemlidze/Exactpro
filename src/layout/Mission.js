@@ -52,7 +52,7 @@ const Mission = () => {
         <Box pt={5}>
             <Grid container>
                 <Grid item xs={12} md={6} className={classes.missionParagraph}>
-                    <h1 className={classes.title}>Out Mission</h1>
+                    <h1 className={classes.title}>Our Mission</h1>
                     <hr width="95px" color="#65ACB2" align="left" size="1"/>
                     <p style={{fontSize: !fullWidth && !fontTransform ? "18px" : "16px"}}>
                         Exactpro specializes in quality assurance services and related software
