@@ -1,5 +1,5 @@
 import React from 'react';
-import {Box, Container, Grid, makeStyles, useMediaQuery} from "@material-ui/core";
+import {Box, Container, Grid, useMediaQuery} from "@material-ui/core";
 import EmailIcon from '@material-ui/icons/Email';
 import PhoneIcon from '@material-ui/icons/Phone';
 import GitHubIcon from '@material-ui/icons/GitHub';
